@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TerminkalenderFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TerminkalenderFX/dist/TerminkalenderFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
